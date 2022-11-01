@@ -1,1 +1,1 @@
-This is a test of Github repository
+This is a test of Github repository, not for serious exercise
